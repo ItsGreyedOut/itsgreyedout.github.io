@@ -44,16 +44,6 @@ Databases
 • MongoDB
 • Extract-Transform-Load (ETL)
 
-I'm qualified for many different roles, including:
-Data Analyst
-Data Engineer Database Administrator (Entry Level)
-Data Scientist (Entry Level) Big Data Engineer (Entry Level)
-Data Journalist Business Intelligence Analyst
-Business Analyst Research Analyst
-SQL Developer Software Engineer (Entry Level)
-Computational Scientist
-Data Architect
-
 What I learned:
 Utilize statistical analysis to characterize and interpret novel datasets.  Use advanced SQL and NoSQL techniques
 to combine multiple datasets into one so as to create even more impressive and comprehensive databases.  Create
@@ -85,11 +75,9 @@ the background, history, and use of new technologies or concepts.
 
 
 My Portfolio
-It’s a fact: companies care about what you can do, not what you say you can do. The
-curriculum taught meu how to put what you’ve learned to work. I covered real-world
+The curriculum taught me how to put what you’ve learned to work. I covered real-world
 data projects, ranging from visualizing bike sharing data in New York City to
 mapping worldwide earthquakes in real-time.  
-
 
 Bank Deserts Project
 Social economists have long noted a trend that in geographic areas with higher poverty rates, there is often
