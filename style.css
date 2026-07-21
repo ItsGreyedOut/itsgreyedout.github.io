@@ -222,6 +222,15 @@ h2 {
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 22px;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+}
+.project-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--blue);
+  box-shadow: 0 6px 16px rgba(46, 95, 242, 0.12);
 }
 .project-thumb {
   width: 100%;
